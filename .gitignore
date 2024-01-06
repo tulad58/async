@@ -1,0 +1,4 @@
+/.env
+/docker-compose.yaml
+/venv
+/__pycache__
